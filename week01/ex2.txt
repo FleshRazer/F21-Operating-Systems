@@ -1,0 +1,12 @@
+danil@danil-X555SJ:~/week01$ whoami
+danil
+danil@danil-X555SJ:~/week01$ hostname
+danil-X555SJ
+danil@danil-X555SJ:~/week01$ pwd
+/home/danil/week01
+danil@danil-X555SJ:~/week01$ man head
+danil@danil-X555SJ:~/week01$ ls /usr/bin/*gcc* | head -n 3
+/usr/bin/c89-gcc
+/usr/bin/c99-gcc
+/usr/bin/gcc
+
