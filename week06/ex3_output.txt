@@ -1,0 +1,10 @@
+./ex3 2
+P# AT  BT  CT  TAT WT
+P1 6   5   14  8   3  
+P2 4   4   10  6   2  
+P3 7   1   10  3   2  
+P0 1   2   3   2   0  
+
+Average turnaround time = 4.750000
+Average waiting time = 1.750000
+
