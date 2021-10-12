@@ -1,0 +1,1 @@
+A physical address is fixed and refers to a certain part of physical memory. A virtual address is program-generated and is to be translated into a physical one.

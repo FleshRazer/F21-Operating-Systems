@@ -1,0 +1,8 @@
+top - 17:03:28 up 46 min,  1 user,  load average: 0,54, 1,76, 1,68
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,4 us,  6,7 sy,  0,0 ni, 87,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3839,3 total,    167,6 free,   3200,5 used,    471,2 buff/cache
+MiB Swap:   8192,0 total,   6364,3 free,   1827,7 used.    388,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                        
+  46961 danil     20   0 2082028   2,0g   1052 S   2,0  52,9   0:04.15 ex2                            
