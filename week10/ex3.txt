@@ -1,0 +1,5 @@
+_ex3.txt: 0100644 [-rw-r--r-- ] -> 0100747 [-rwxr--rwx ]
+_ex3.txt: 0100747 [-rwxr--rwx ] -> 0100777 [-rwxrwxrwx ]
+660 sets owner=rw- group=rw- other=---
+775 sets owner=rwx group=rwx other=-wx
+777 sets owner=rwx group=rwx other=rwx

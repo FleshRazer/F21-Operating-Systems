@@ -1,0 +1,6 @@
+find
+./week01/file.txt
+./week10/_ex2.txt
+find -exec rm
+./week01/file.txt
+./week10/_ex2.txt
