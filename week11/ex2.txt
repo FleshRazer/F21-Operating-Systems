@@ -1,0 +1,4 @@
+lib64	lost+found	file2.txt	bin	file1.txt	file1.txtchmod	lib	ex2.out	ex2.cout	.	..	
+
+swapfile	opt	lib	cdrom	lib64	usr	bin	.	etc	srv	dev	run	boot	sys	snap	lib32	lost+found	..	home	sbin	root	proc	media	mnt	libx32	var	tmp	
+
