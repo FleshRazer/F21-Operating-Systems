@@ -1,0 +1,6 @@
+Recovery might be better when deadlocks are unlikely and we want to save CPU time. It deals with deadlocks only when they occur.
+
+Prevention might be better if we want to have a guarantee that a deadlock will not occur. Prevention will take more resources than any other approach.
+
+Avoidance might be better if we know in advance when resource granting to a process is safe. This approach will help to avoid deadlocks and will not consume much CPU time.
+
